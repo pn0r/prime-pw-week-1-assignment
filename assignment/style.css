@@ -15,8 +15,8 @@ h1 {
 }
 /* Make your p tag a different color and italic */
 p {
+    font: italic;
    color: ghostwhite;
-   font: italic;
 }
 /* Put a border around your image */
 img {
