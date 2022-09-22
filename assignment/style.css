@@ -4,10 +4,12 @@ body {
 }
 /* Make the header and footer a different color from the background */
 header {
-    color: burlywood;
+    background-color: burlywood;
+    padding: 25px;
 }
 footer {
-    background-color: brown;
+    background-color: burlywood;
+    padding: 25px;
 }
 /* Align the h1 containing your name in the center of the header*/
 h1 {
@@ -17,10 +19,18 @@ h1 {
 p {
     font-style: italic;
    color: ghostwhite;
+   font-size:x-large
+}
+h4 {
+    color: ghostwhite;
 }
 /* Put a border around your image */
 img {
     border: 15px solid black;
+    width: 1080px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /* Change the font-family of your list */
